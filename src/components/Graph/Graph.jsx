@@ -2,7 +2,7 @@ import React from "react";
 import "./Graph.css";
 
 const Graph = () => {
-  return <div>Graph helloss hello</div>;
+  return <div>Graph</div>;
 };
 
 export default Graph;
